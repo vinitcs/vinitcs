@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vinitcs
-- 👀 I’m interested in Web and App development in react
+- 👋 Hi, I’m VInit Chavan
+- 👀 I’m interested in web and app development in react.js and react native
 - 🌱 I’m currently learning the MERN stack
 - 📫 Here is my [Portfolio](https://vinitchavan-portfolio.netlify.app/)
 
