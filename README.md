@@ -2,8 +2,9 @@
 
 
 - 👋 Hi, I’m VInit Chavan
+- 🧑‍💻 I'm a MERN Stack developer
 - 👀 I’m interested in web and app development in react.js and react-native
-- 🌱 I'm exploring different combinations to develop well-maintained real-time projects.
+- 🌱 I'm exploring combinations to develop well-maintained web and app projects.
 - 📫 Here is my [Portfolio](https://vinitchavan-portfolio.netlify.app/)
 
 <!---
