@@ -1,4 +1,4 @@
-![github-banner](https://github.com/user-attachments/assets/eb4a84a0-30fe-4446-bcbc-ad2e592896d8)
+![Blue Simple LinkedIn Banner](https://github.com/user-attachments/assets/5f556540-11db-427c-94a6-bf2f97958711)
 
 
 - 👋 Hi, I’m VInit Chavan
